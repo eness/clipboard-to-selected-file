@@ -45,4 +45,4 @@ This repository includes a GitHub Actions workflow that publishes both framework
 - Enes Sönmez
 - X / Twitter: https://x.com/enes_dev
 - Website: https://enes.dev
-- GitHub: https://github.com/eness/fastclip
+- GitHub: https://github.com/eness
